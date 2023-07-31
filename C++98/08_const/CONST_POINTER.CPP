@@ -16,7 +16,7 @@ int main(void)
     const int x2 = 200;     // const for compiler & not for OS and HW 
     static const int x3 = 300; // const for compiler as well as OS & HW 
 
-   //  int *const y1 = &x1; // ERROR , CTE 
+    int *const y1 = &x1; // ERROR , CTE 
    //  int *const y2 = &x2; // ERROR , CTE 
    //  int *const y3 = &x3; // ERROR , CTE 
 

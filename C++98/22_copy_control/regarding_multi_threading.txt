@@ -1,0 +1,35 @@
+Multithreading -> OS 
+
+C -> C syntax -> 
+
+JNI 
+
+pInvoke
+
+PARALLEL CONCURRENT 
+
+// Modern Operating System -> 4th Edition 
+// A.S. Tanebaum 
+// Chapter 2 
+
+// Principles of PL : Ravi Sethi 
+// programming languages which support 
+// concurrency at syntax level 
+
+// Kerrisk -> Programming with POSIX thread 
+// Richter -> 
+
+func main(){
+    func x() -> int{
+
+    }
+
+    func y() -> int{
+
+    }
+
+    go x(); 
+    go y(); 
+
+    next 
+}
